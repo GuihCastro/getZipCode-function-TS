@@ -22,7 +22,7 @@ Para usar esta função, você precisa ter Node.js e npm instalados. Siga os pas
 
 1. Clone o repositório:
     ```sh
-    git clone https://github.com/seuusuario/getZipCode.git
+    git clone https://github.com/GuihCastro/getZipCode-function-TS.git
     cd getZipCode
     ```
 
